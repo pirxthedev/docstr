@@ -6,12 +6,16 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@tiptap/extension-collaboration": "^2.0.0-beta.218",
     "@tiptap/react": "^2.0.0-beta.113",
     "@tiptap/starter-kit": "^2.0.0-beta.189",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "y-prosemirror": "^1.2.0",
+    "y-webrtc": "^10.2.4",
+    "yjs": "^13.5.47"
   },
   "scripts": {
     "start": "react-scripts start",
